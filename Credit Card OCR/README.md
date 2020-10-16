@@ -13,7 +13,7 @@ Despite the fact that modern OCR systems don’t need specialized fonts such as 
   <li>Applying template matching to each digit by comparing it to the OCR-A font to obtain our digit classification.</li>
 </ul>
 
-# Useful Link :- 
+# Useful Links :- 
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Top-hat_transform">Top-hat Transform </a></li>
   <li><a href="https://en.wikipedia.org/wiki/Sobel_operator">Sobel operator</a></li>
