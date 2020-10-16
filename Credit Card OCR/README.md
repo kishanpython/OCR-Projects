@@ -15,8 +15,8 @@ Despite the fact that modern OCR systems don’t need specialized fonts such as 
 
 # Useful Link :- 
 <ul>
-  <li><a src="https://en.wikipedia.org/wiki/Top-hat_transform">Top-hat Transform </a></li>
-  <li><a src="https://en.wikipedia.org/wiki/Sobel_operator">Sobel operator</a></li>
-  <li><a src="https://en.wikipedia.org/wiki/Otsu%27s_method">Otsu's method</a></li>
-  <li><a src="https://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/">Sorting Contours</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Top-hat_transform">Top-hat Transform </a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Sobel_operator">Sobel operator</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Otsu%27s_method">Otsu's method</a></li>
+  <li><a href="https://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/">Sorting Contours</a></li>
 </ul>
