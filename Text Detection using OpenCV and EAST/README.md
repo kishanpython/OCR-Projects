@@ -11,16 +11,16 @@ Due to the proliferation of cheap digital cameras, and not to mention the fact t
 We call the algorithm “EAST” because it’s an :-  Efficient and Accurate Scene Text detection pipeline.
 For more details on EAST, including architecture design and training method <a href="https://arxiv.org/abs/1704.03155">be sure to refer to the publication by the authors.</a>
 
+## Output :- 
+<img src="https://github.com/kishanpython/OCR-Projects/blob/master/Text%20Detection%20using%20OpenCV%20and%20EAST/images/target.jpg"></img>
+
 ## Useful Links :- 
 
 <ul>
-  <li href = "https://arxiv.org/abs/1704.03155">EAST</li>
-  <li href = "https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/">OpenCV’s blobFromImage</li>
-  <li href = "https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/">Non-Maximum Suppression</li>
+  <li><a href = "https://arxiv.org/abs/1704.03155">EAST</a></li>
+  <li><a href = "https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/">OpenCV’s blobFromImage</a></li>
+  <li><a href = "https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/"">Non-Maximum Suppression</a></li>
 </ul>
-
-## Output :- 
-<img src="https://github.com/kishanpython/OCR-Projects/blob/master/Text%20Detection%20using%20OpenCV%20and%20EAST/images/target.jpg"></img>
 
 
 ## Note:-
