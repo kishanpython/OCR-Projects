@@ -17,9 +17,11 @@ For more details on EAST, including architecture design and training method <a h
 ## Useful Links :- 
 
 <ul>
+  <li><a href="https://www.kaggle.com/yelmurat/frozen-east-text-detection">EAST Model Download from Kaggle</a></li>
   <li><a href = "https://arxiv.org/abs/1704.03155">EAST</a></li>
   <li><a href = "https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/">OpenCV’s blobFromImage</a></li>
   <li><a href = "https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/"">Non-Maximum Suppression</a></li>
+  <li><a href="https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/">Refrence</a></li>
 </ul>
 
 
