@@ -1,7 +1,7 @@
 
 # Text Detection (EAST text detector)
 
-<b>TASK :-</b> Detect text in natural scene images using the OpenCV and EAST text detector.
+<b>TASK :- Detect text in natural scene images using the OpenCV and EAST text detector.</b>
 
 OpenCV’s EAST text detector is a deep learning model, based on a novel architecture and training pattern. It is capable of (1) running at near real-time at 13 FPS on 720p images and (2) obtains state-of-the-art text detection accuracy.
 
