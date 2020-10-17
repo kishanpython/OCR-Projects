@@ -14,9 +14,9 @@ For more details on EAST, including architecture design and training method <a h
 # Useful Links :- 
 
 <ul>
-  <li href="https://arxiv.org/abs/1704.03155"> EAST </li>
-  <li href="https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/"> OpenCV’s blobFromImage </li>
-  <li href="https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/">Non-Maximum Suppression</li>
+  <li src="https://arxiv.org/abs/1704.03155"> EAST </li>
+  <li src="https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/"> OpenCV’s blobFromImage </li>
+  <li src="https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/">Non-Maximum Suppression</li>
 </ul>
 
 # Output :- 
